@@ -3,6 +3,7 @@ package Person_test
 import (
 	"errors"
 
+	. "github.com/kara9renai/BDD-golang-example/Person"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
